@@ -1,4 +1,3 @@
-import { Cross } from './cross';
 import './App.css';
 import {Multiselect} from 'multiselect-react-dropdown';
 import { useState } from 'react';
